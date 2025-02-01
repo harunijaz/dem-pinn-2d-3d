@@ -68,7 +68,7 @@ This repository contains the implementation of a Physics-Informed Neural Network
 
 ```python
 # Set up parameters
-voxel_file = '/path/to/voxel_data.mat'
+voxel_file = '/path/to/discretized_voxel.mat'
 E = 1e9  # Young's modulus (Pa)
 nu = 0.3  # Poisson's ratio
 force_magnitude = 1.0  # Force magnitude
