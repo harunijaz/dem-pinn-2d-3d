@@ -22,15 +22,10 @@ This repository contains the implementation of a Physics-Informed Neural Network
 
 ## Installation
 
-1. Clone the repository:
+**Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/dem-pinn-3d.git
+   git clone https://github.com/harunijaz/dem-pinn-3d.git
    cd dem-pinn-3d
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -97,15 +92,10 @@ After training, the model will output the predicted displacements and stresses f
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project is inspired by the work on Physics-Informed Neural Networks (PINNs) and the Deep Energy Method (DEM).
-- Special thanks to the authors of the original papers and the open-source community for their contributions to the field.
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at [your.email@example.com].
+For any questions or feedback, please contact Aaron at [haroonijaz@zju.edu.cn].
