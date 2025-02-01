@@ -4,6 +4,8 @@
 
 This repository contains the implementation of a Physics-Informed Neural Network (PINN) combined with the Deep Energy Method (DEM) to solve 3D elasticity problems using voxel data. Unlike traditional methods such as the Finite Element Method (FEM), which rely on mesh-based discretization, this approach uses a neural network to directly predict displacements and stresses in a 3D voxelized structure, such as a chair, under given force conditions. By integrating physical laws (elasticity equations) into the neural network training process, the model ensures that the predictions are physically consistent and mesh-free, offering a flexible and efficient alternative to conventional numerical methods.
 
+### Detail article can be found here [https://medium.com/@harunijaz/solving-3d-elasticity-problems-with-physics-informed-neural-networks-pinns-a-mesh-free-8685a1acd8d8]
+
 ## Key Features
 
 - **Physics-Informed Neural Networks (PINNs):** The model integrates physical laws (elasticity equations) directly into the neural network training process, ensuring that the predictions adhere to the underlying physics.
