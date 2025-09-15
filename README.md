@@ -98,6 +98,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 - This project is inspired by the work on Physics-Informed Neural Networks (PINNs) and the Deep Energy Method (DEM).
 
-## Contact
 
-For any questions or feedback, please contact Aaron at [haroonijaz@zju.edu.cn].
